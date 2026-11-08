@@ -2,6 +2,7 @@
 
 An n8n workflow that:
 - Fetches AI news
+- no code automation
 - Summarizes articles using Gemini AI
 - Sends results by email
 
